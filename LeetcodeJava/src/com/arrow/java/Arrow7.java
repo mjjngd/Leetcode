@@ -3,7 +3,7 @@ package com.arrow.java;
 import java.util.Stack;
 
 /**
- * Created by Estelle on 2015/7/15.
+ * Created by beck on 2015/7/15.
  * 两个栈实现一个队列
  */
 public class Arrow7 {
